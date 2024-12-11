@@ -1,0 +1,7 @@
+- git merge --abort - thoát ra khỏi chế độ merge 
+
+- git checkout cuong - chuyển sang brand cuong 
+
+- git checkout -b 'huynt' 'origin/huynt' chuyển sang brand hoàn toàn mới
+
+- git merge main cuong - câu lệnh gộp 2 brand với nhau (bard cuong sẽ đc lấy code từ main để gộp vào)
